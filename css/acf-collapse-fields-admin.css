@@ -2,7 +2,7 @@
 .field-repeater-toggle-all,
 .field-flexible-toggle {
 	float:right;
-	margin: -5px 0 0 !important;
+	margin: 5px 12px 5px 0 !important;
 }
 
 .field-repeater-toggle::before,
