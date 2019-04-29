@@ -1,5 +1,5 @@
 {
-    "name": "all3dp/ACF-Collapse-Fields",
+    "name": "all3dp/acf-collapse-fields",
     "type": "wordpress-plugin",
     "require": {
       "php": ">=5.5",
