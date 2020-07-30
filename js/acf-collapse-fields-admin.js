@@ -13,7 +13,7 @@ jQuery(document).ready(function($) {
 			repeater = $(this);
 
 			repeater.children('.acf-input').children('.acf-repeater:not(.-table)').each(function() {
-				affectedRepeater = $(this).parent().parent();
+				affectedRepeater = $(this).parent();
 
 				affectedRepeater.data('acf-rowset-collapsed', false).attr('aria-expanded', false);
 				
